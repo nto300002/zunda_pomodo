@@ -1,0 +1,15 @@
+export const images = [
+  '/zun_m1.png',
+  '/zun_m2.png',
+  '/zun_m3.png',
+  '/zun_m4.png',
+  '/zun_m5.png',
+  '/zun_m6.png',
+  '/zun_m7.png',
+  '/zun_m8.png',
+  '/zun_m9.png',
+  '/zun_m10.png',
+  '/zun_m11.png',
+  '/zun_m12.png',
+  '/zun_m13.png',
+];
